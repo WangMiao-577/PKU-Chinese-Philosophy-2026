@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "chunk_bytes": 33554432,
+  "files": [
+    {
+      "path": "Discussions/Round1-Ritual/References/三礼通论-钱玄.pdf",
+      "bytes": 245886209,
+      "sha256": "9915fbafd209c541afc82fa2414ca392551898c527a713b8e576cfb46f8ebf3c",
+      "parts": [
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "ca592d078984298b29d899d00ec865cd2ceebe1d34da86506c455ff050214627"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0002.bin",
+          "bytes": 33554432,
+          "sha256": "55cf6d15da5a48ba3650cf1a1efa75b462a4bb2bf8d1758feea5fd366b17cae1"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0003.bin",
+          "bytes": 33554432,
+          "sha256": "0096dc61dd5b1b4d00be755db5aeaf73d6102636ce66fe6e24e18ba487dd491d"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0004.bin",
+          "bytes": 33554432,
+          "sha256": "51627ed3e5f0e5c7da7a306b24a101c3df7c294e9d38c9b3006e1df12b8af890"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0005.bin",
+          "bytes": 33554432,
+          "sha256": "2ccfe07a4759fd0380fc10b58d962715d385c62a92cf6370e0ca94e6bc480766"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0006.bin",
+          "bytes": 33554432,
+          "sha256": "092b3cfd27f3797e97a2754e5ed087eddb05af147c763d4459b2f6682558de71"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0007.bin",
+          "bytes": 33554432,
+          "sha256": "154dd7295a332aa5d1b1c73466fd4c30f28003af4c4a5ecbce86b29627bd09c5"
+        },
+        {
+          "path": "LargeFiles/9915fbafd209c541/part-0008.bin",
+          "bytes": 11005185,
+          "sha256": "2b686488dd9f7aa77b9b1e1490be64c595d061837cb68638bf8a8dbd76e5d1a1"
+        }
+      ]
+    },
+    {
+      "path": "Discussions/Round1-Ritual/References/春秋左传注-杨伯峻.pdf",
+      "bytes": 75115398,
+      "sha256": "03f81dff88d5ec04a4f3d34946c5af6a1e02701c754f58bde100322fcea7ae2d",
+      "parts": [
+        {
+          "path": "LargeFiles/03f81dff88d5ec04/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "7367cffbc112996e43bf4457dd19f405a155f9c2d21c94ba5f1fd9304588b142"
+        },
+        {
+          "path": "LargeFiles/03f81dff88d5ec04/part-0002.bin",
+          "bytes": 33554432,
+          "sha256": "a878c72778490f78c2c9423a386ad71c867809fa0f158f2db849611464d90706"
+        },
+        {
+          "path": "LargeFiles/03f81dff88d5ec04/part-0003.bin",
+          "bytes": 8006534,
+          "sha256": "edb619231d3fb901bdfd870467b2a3368b20c6637481195a19ecfccf41651cc0"
+        }
+      ]
+    },
+    {
+      "path": "Discussions/Round1-Ritual/References/礼记译解-王文锦.pdf",
+      "bytes": 219230264,
+      "sha256": "878c9affea26d851664f3d1727c490d002c3438e15b6daef06e5b1bc2163bbbb",
+      "parts": [
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "f33631ffc3467543945590eff1cf789dcb78cbf0fa36f3ce8dd24353f058d757"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0002.bin",
+          "bytes": 33554432,
+          "sha256": "fc9d86ed4265d74507fc28eec0a386f3224079f1c4734f55a35af3ceaab13be2"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0003.bin",
+          "bytes": 33554432,
+          "sha256": "70d98665be45ac611f63ae1bc3424475ceaa95195f4804c060dc4d9aac51f958"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0004.bin",
+          "bytes": 33554432,
+          "sha256": "85d5ee4747d99c06bddd0fe2fceff222308e3e5a772aedaa5787392bae9c60f1"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0005.bin",
+          "bytes": 33554432,
+          "sha256": "ba7cff0f41d3d55a8a3220c8e29a4bf44207e67f099ed9dfb5db1d000d4af3c8"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0006.bin",
+          "bytes": 33554432,
+          "sha256": "1281c1a5eb58967f4cf3fbee0b4ff0f92e58b969c1dfd7370939ed743e6b2ce2"
+        },
+        {
+          "path": "LargeFiles/878c9affea26d851/part-0007.bin",
+          "bytes": 17903672,
+          "sha256": "4361cb207d81c2a2795a4473e339f13897f9e868e3c60f0f0f77915f6b768abc"
+        }
+      ]
+    },
+    {
+      "path": "Discussions/Round2-Laozi/References/北京大学藏西汉竹书（贰）.pdf",
+      "bytes": 125266069,
+      "sha256": "f5ed81e6dd24db6dadee3e9d808cd73b197bc168ff91d3d9ed1a5cf943e6d55b",
+      "parts": [
+        {
+          "path": "LargeFiles/f5ed81e6dd24db6d/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "bad21b8ac480949dbd3b129e9927be2e107b7ddb66159a7f18d9b40a27c0e612"
+        },
+        {
+          "path": "LargeFiles/f5ed81e6dd24db6d/part-0002.bin",
+          "bytes": 33554432,
+          "sha256": "dea7f352d27bb454669c8f7685a8e33a72b0e5e6f2aa3aaddf4ba50687ab5416"
+        },
+        {
+          "path": "LargeFiles/f5ed81e6dd24db6d/part-0003.bin",
+          "bytes": 33554432,
+          "sha256": "f2d8d37fcaa548927e3e627fea903946164d1b5c601e2e8b5b9ec541e553f0a7"
+        },
+        {
+          "path": "LargeFiles/f5ed81e6dd24db6d/part-0004.bin",
+          "bytes": 24602773,
+          "sha256": "0ccdd1d771b5c4318346d387fd80d8cdb8402c44ab8dafdcd8c65c7d14a0a35d"
+        }
+      ]
+    }
+  ]
+}

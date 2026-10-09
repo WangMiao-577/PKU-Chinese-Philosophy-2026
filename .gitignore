@@ -1,0 +1,46 @@
+# Local tool metadata and credentials
+.agents/
+.aws/
+.codex/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Existing offline dependencies and generated builds
+node_modules/
+build/
+dist/
+dist_tmp/
+.xmake/
+__pycache__/
+*.pyc
+.DS_Store
+
+# LaTeX intermediate files; retain source and PDFs
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.blg
+*.bcf
+*.run.xml
+
+/Discussions/Round1-Ritual/References/三礼通论-钱玄.pdf
+
+/Discussions/Round1-Ritual/References/春秋左传注-杨伯峻.pdf
+
+/Discussions/Round1-Ritual/References/礼记译解-王文锦.pdf
+
+/Discussions/Round2-Laozi/References/北京大学藏西汉竹书（贰）.pdf
